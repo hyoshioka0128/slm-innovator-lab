@@ -32,7 +32,7 @@ Microsoft Olive は、AI モデルのデプロイを効率化するために Mic
 開始する前に、次の要件を満たす必要があります。
 
 - [Azure OpenAI Service へのアクセス](https://go.microsoft.com/fwlink/?linkid=2222006)
-- [Azure ML の概要](https://github.com/Azure/azureml-examples/tree/main/tutorials): [Azure ML] ワークスペースに接続接続し、<WORKSPACE_NAME>、<RESOURCE_GROUP>、<SUBSCRIPTION_ID> を取得してください。
+- [Azure ML の概要](https://github.com/Azure/azureml-examples/tree/main/tutorials): [Azure ML] ワークスペースに接続し、<WORKSPACE_NAME>、<RESOURCE_GROUP>、<SUBSCRIPTION_ID> を取得してください。
 - [Azure AI Foundry の概要](https://int.ai.azure.com/explore/gettingstarted): プロジェクトを作成する
 - [Azure AI ドキュメント インテリジェンス (v4.0 - 2024-02-29 プレビュー)](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview?view=doc-intel-4.0.0)
 
